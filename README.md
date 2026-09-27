@@ -26,7 +26,7 @@
 
 ## 📥 다운로드
 
-👉 **[최신 버전 받기 (Releases)](https://github.com/blushed-mw/illyeok-app/releases/latest)**
+👉 **[최신 버전 받기 (Releases)](https://github.com/blushed-mw/todok-illyeok/releases/latest)**
 
 내 컴퓨터에 맞는 파일 **하나만** 받으면 돼요.
 
